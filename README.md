@@ -7,6 +7,8 @@ How To Install
 ```
 sudo -s
 ```
+If you are on windows, skip step 1 and run Command Prompt as administrator. Then continue onto step 2.
+
 2. Install Scapy & Python By:
 ```
 pip install scapy
