@@ -1,7 +1,7 @@
 from scapy.all import *
 source_IP = input("Enter IP address of Source: ")
 target_IP = input("Enter IP address of Target: ")
-source_port = int(input("Enter Source Port Number:"))
+source_port = int(input("Enter Source Port Number: "))
 i = 1
 
 while True:
